@@ -1,0 +1,9 @@
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\bin\Debug\Activity2_WinForm.exe.config
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\bin\Debug\Activity2_WinForm.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\bin\Debug\Activity2_WinForm.pdb
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\obj\Debug\Activity2_WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\obj\Debug\Activity2_WinForm.Form1.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\obj\Debug\Activity2_WinForm.Properties.Resources.resources
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\obj\Debug\Activity2_WinForm.csproj.GenerateResource.Cache
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\obj\Debug\Activity2_WinForm.exe
+C:\Users\Karl\Desktop\C#_Aton\Activity2_WinForm\Activity2_WinForm\obj\Debug\Activity2_WinForm.pdb
